@@ -31,7 +31,7 @@ A possible explanation can be because there are more drivers available for short
  
  ## Chart 2 Summary
  
- ### Screenshot of Total Fare by City Type
+ ### Line Chart of Total Fare by City Type
 <img width=“500” alt=“” src="https://github.com/estherhk/PyBer_Analysis/blob/master/analysis/Pyber_Challenge.png">
  
  The analysis of the total fare by three city types show that:
