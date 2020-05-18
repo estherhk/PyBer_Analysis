@@ -14,7 +14,7 @@ An analysis was conducted for Pyber to show the outcome between three city types
   
 ## Chart 1 Summary
 
-### Screenshot of Data Summary
+### DataFrame of Data Summary
 <img width=“500” alt=“” src="https://github.com/estherhk/PyBer_Analysis/blob/master/analysis/Pyber_summary.png">
 
 The analysis of the three city types show that:
