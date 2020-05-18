@@ -4,7 +4,7 @@
 An analysis was conducted for Pyber to show the outcome between three city types: Rural, Suburban, and Urban.  Two charts were created which one of them explains in a DataFrame the total rides, drivers, fares, and the averages.  Whereas the other chart, that shows in a line plot, the total fare by city type per month.
 
 ## Resources
-  - Data Source:PyBer_Challenge.ipynb, ride_data.csv, city_data.csv
+  - Data Source: PyBer_Challenge.ipynb, ride_data.csv, city_data.csv
   - Software: Python 3.7, Jupyter Notebook
   
 ## Chart 1 Summary
